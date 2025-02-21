@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Matheus Henrique Barbosa de Andrade
+Matricula: 887947
 
 ## Tela de inspeção com navegador
+![alt text](<![alt text](<Captura de tela 2025-02-17 131455-1.png>)>)
 
 
 ## Tela de projeto no Replit
+![alt text](<Captura de tela 2025-02-18 170707.png>)>
 
